@@ -1,0 +1,88 @@
+body {
+  background: url('../img/sign.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-align: center !important;
+}
+
+
+.circle
+  {
+      display: block;
+    width: 140px;
+    height: 140px;
+    background: rgba(220, 185, 165,1);
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    margin:auto;
+    margin-bottom: 20px;
+
+
+  }
+
+  div.circle>img {
+   max-height: 100%;
+   max-width: 100%;
+   
+ 
+   
+}
+
+.steps {
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+
+h2 {
+	font-family: 'Gotu', sans-serif;
+  
+  color:white;
+}
+
+.step-content{
+	background-color: rgba(220, 185, 165,1);
+	padding: 20px;
+	height: 240px;
+}
+
+
+
+.col-lg-4 {
+	margin-bottom: 20px;
+}
+
+
+p{
+	font-family: 'Gotu', sans-serif;
+  
+  color:white;
+}
+
+.jumbotron {
+	background-color: rgba(220, 185, 165,1);
+	margin-bottom: 100px;
+}
+
+.jumbotron p{
+
+  
+  color:black;
+}
+.jumbotron h2{
+
+  
+  color:black;
+}
+
+.why {
+  color: black !important;
+}
+.navbar {
+  background-color: rgba(150,103,122,1) !important;
+}

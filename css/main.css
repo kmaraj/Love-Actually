@@ -1,0 +1,111 @@
+.navbar {
+ background: rgba(150, 103, 122,0) !important;
+ color:rgba(195,145,124,1) !important;
+}
+
+}
+
+.navbar-dark .navbar-brand {
+	color:rgba(195,145,124,1) !important;
+}
+
+body {
+  background: url('../img/sign.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-align: center !important;
+}
+
+
+
+
+.col-sm-6 {
+	margin-bottom: 20px;
+}
+
+.container-fluid{
+	margin-top:20px;
+}
+
+.center{
+	display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+/*  border: 3px solid green; 
+*/}
+
+
+
+/* Carousel */ 
+.carousel-inner {
+background-color: rgb(220, 185, 165) !important;
+height: 500px;
+
+
+}
+
+.carousel-inner h3 {
+  font-family: 'Gotu', sans-serif;
+  text-align: center;
+  color:white;
+  padding-bottom: 15px;
+}
+
+.carousel-inner h4 {
+  font-family: 'Gotu', sans-serif;
+  text-align: center;
+  color:white;
+  font-size: 4rem;
+
+}
+
+ .first_slide{
+  padding-top: 35%;
+
+}
+
+
+
+ .other_slides{
+  padding-top: 20%;
+
+}
+
+.other_slides2{
+  padding-top: 20%;
+
+}
+
+.other_slides3{
+  padding-top: 10%;
+
+}
+
+
+.carousel-item{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.carousel-item h3 {
+    animation-delay: 1s;
+}
+.carousel-item img {
+    animation-delay: 1s;
+}
+.carousel-item h4 {
+    animation-delay: 1s;
+}
+
+
+
+.why {
+  color: black !important;
+}
+.navbar {
+  background-color: rgba(150,103,122,1) !important;
+}
+

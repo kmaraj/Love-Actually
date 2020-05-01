@@ -1,0 +1,82 @@
+body {
+  background: url('../img/sign.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-align: center !important;
+}
+
+
+.card{
+	background-color: rgba(150,103,122,.8) !important;
+	
+}
+
+h1, h6 {
+	font-family: 'Gotu', sans-serif;
+	text-align: center;
+	color:white;
+
+}
+.container{
+/* position: relative;*/
+}
+
+form{
+	margin: 0 auto; 
+width:250px;
+
+}
+
+.btn-primary {
+	margin-top: 20px;
+	border-color:#faf8f3 !important;
+	border-width: 2px;
+	background-color: transparent !important;
+}
+
+.form-control{
+	 border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid white !important;
+  background-color: transparent !important;
+/*  border: 0px !important;*/
+  border-radius: 0 !important;
+ }
+
+ .form-control:active {
+ 	border-bottom: 1px solid black !important;
+ 	border-radius: 0 !important;
+ }
+
+*:focus {
+    outline: none !important;
+}
+
+
+.form-control:focus {
+  border-color: inherit;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+#infoBox {
+	margin-top: 20px;
+}
+
+
+
+.navbar-light .navbar-brand {
+	color:white;
+}
+
+.why {
+  color: black !important;
+}
+.navbar {
+  background-color: rgba(150,103,122,1) !important;
+}
+
+
